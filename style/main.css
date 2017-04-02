@@ -1,0 +1,199 @@
+/*HEADER*/
+header {
+    background-image: url('../images/header.png');
+    background-color: #a8a097;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 0;
+    max-width: 100%;
+    background-attachment: fixed;
+}
+
+.logo {
+    width: 15%;
+    margin-left: 15%;
+}
+
+.imLogo {
+    width: 100%;
+    padding-top: 3%;
+}
+
+.wrap {
+    margin: -4% 0 0 45%;
+}
+
+.navLi {
+    float: left;
+    margin-left: 2%;
+    font-size: 1.5em;
+    font-family: serif;
+    color: #2e2f30;
+}
+.delivery {
+    margin: 4% 0 0 23%;
+}
+
+.imDelivery {
+    width: 7%;
+    margin-left: 12%;
+}
+
+.delText {
+    font-size: 2.2em;
+    margin-top: 2%;
+    color: #2e2f30;
+}
+
+.phone {
+    margin: 1% 0 0 23%;
+}
+
+.imPhone {
+    width: 7%;
+    margin-left: 12%;
+}
+
+.phNumber {
+    font-size: 1.5em;
+    margin: 1% 0 0 8%;
+    color: #2e2f30;
+}
+
+.buyBuket, .makeBuket, .payBuket {
+    float: left;
+    height: 120px;
+    width: 120px;
+    line-height: 1%;
+    border-radius: 50%;
+    background-color: #dc778b;
+    color: white; 
+    font-size: 1.1em;
+    text-align: center;
+}
+
+.menu p {
+    padding-top: 35px;
+}
+
+.buyBuket {
+    margin: 6% 1% 18% 21%;
+}
+
+.makeBuket, .payBuket {
+    margin: 6% 1% 18% 0%;
+}
+
+.socNetwork {
+    position: absolute;
+    top: 60%;
+    left: 90%;
+}
+
+.soc {
+    width: 70%;
+}
+
+/*MAIN*/
+
+main {
+    background-image: url('../images/bgMain.png');
+    background-color: #eac59b;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    max-width: 100%;
+    position: relative;
+    background-attachment: fixed;
+}
+
+.title {
+    width: 83%;
+    border: 1px solid black;
+    border-radius: 25px;
+    position: absolute;
+    top: 1%;
+    left: 7%;
+}
+
+.titleText {
+    text-align: center;
+    font-size: 1.9em;
+    padding: 0.5%
+}
+
+.wrapPicture {
+    margin: 0 6%;
+}
+
+figure {
+    float: left;
+    margin: 10% 1% 2% 1%;
+}
+
+/*
+.slider {
+    width: 480px;
+    height: 160px;
+    margin: 7% auto;
+    overflow: hidden;
+}
+
+.wrapSlid {
+    width: 960px;
+    left: 0;
+    position: relative;
+    transition: all ease 2s;
+}
+
+.imgSlid {
+    float: left;
+}
+
+#butLeft {
+    position: absolute;
+    top: 55%;
+    left: 23%;
+}
+
+#butRight {
+    position: absolute;
+    top: 55%;
+    left: 75%
+}
+*/
+
+.fotorama {
+    margin: 5% 20% 3% 30%;
+}
+
+.postcard {
+    margin-left: 7%;
+}
+
+.postcardText {
+    position: absolute;
+    top: 85%;
+    left: 35%;
+    font-size: 4em;
+}
+
+footer {
+    background-color: #bdc5e3;
+    width: 100%;
+    height: 400px;
+}
+
+
+
+
+
+
+
+
+
+.cleaner::after, .clear::before {
+    content: '';
+    display: block;
+    clear: both;
+}

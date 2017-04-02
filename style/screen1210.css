@@ -1,0 +1,16 @@
+@media screen and (max-width: 1210px) {
+    .delText {
+        display: none;
+    }
+    .buyBuket {
+    margin: 10% 1% 18% 21%;
+}
+
+    .makeBuket, .payBuket {
+        margin: 10% 1% 18% 0%;
+    }
+    
+    figure {
+        margin: 10% 1% 2% 12%;
+    }
+}

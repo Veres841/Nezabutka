@@ -1,0 +1,31 @@
+@media screen and (max-width: 1025px) {
+    .navLi {
+        font-size: 1.1em;
+        transition: 0.5s;
+    }
+    .buyBuket, .makeBuket, .payBuket {
+        margin: 10% 0 20% 2%;
+        height: 80px;
+        width: 80px;
+        font-size: 0.6em;
+    }
+    .buyBuket {
+        margin-left: 20%;
+    }
+    
+    .menu p {
+        padding-top: 25px;
+    }
+    
+    .phNumber {
+        font-size: 1.1em
+    }
+    
+    .title {
+        left: 12%;
+    }
+    
+    .titleText {
+        font-size: 1.5em;
+    }
+}

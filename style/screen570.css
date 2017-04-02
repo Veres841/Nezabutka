@@ -1,0 +1,46 @@
+@media screen and (max-width: 570px) {
+    .navLi {
+        display: none;
+    }
+    .buyBuket, .makeBuket, .payBuket {
+        margin: 10% 0 20% 2%;
+        height: 50px;
+        width: 50px;
+        font-size: 0.3em;
+        line-height: 0px;
+    }
+    
+    .menu p {
+        margin-top: 9px;
+        padding-top: 5px;
+    }
+    
+    
+    .buyBuket {
+        margin-left: 15%;
+    }
+    
+    .soc {
+        width: 30%;
+    }
+    .socNetwork {
+        top: 55%;
+        left: 93%;
+    }
+    .phNumber {
+        font-size: 0.6em;
+    }
+    
+    .title {
+        left 1%;
+        width: 70%;
+    }
+    
+    .titleText {
+        font-size: 1em;
+    }
+    
+    figure {
+        margin: 15% 1% 2% 7%;
+    }
+}
